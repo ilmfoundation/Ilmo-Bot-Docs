@@ -1,8 +1,8 @@
 ## Ilmo Bot
 
-The nerdiest bot
+The nerdiest bot on Disocrd that you will every see and the funniest one too
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This bot has been made in collaboration with The Ilm Foundation and Byte X
 
 ### Markdown
 
